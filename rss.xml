@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Estúdio Foco]]></title>
         <description><![CDATA[Estúdio Foco]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/estudio-foco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 13:40:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jul 2016 13:45:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/estudio-foco/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[tewsete]]></title>
-            <description><![CDATA[<p>rrererere</p>]]></description>
-            <link>undefinedtewsete/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d44e04c5-99c8-4f4a-afaa-81306e576e36.jpg">]]></description>
+            <link>https://thegrid.ai/estudio-foco/tewsete/index.html</link>
             <guid isPermaLink="false">6b1d1838-893e-4c54-b1fc-64e16bbcb10d</guid>
-            <pubDate>Thu, 14 Jul 2016 13:40:35 GMT</pubDate>
+            <pubDate>Thu, 14 Jul 2016 13:44:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
